@@ -1,4 +1,4 @@
-# Harmonia: Advanced Counterpoint Generation System
+# Counterpoint: A Functional Series Generation System
 
 *"Music is the arithmetic of sounds as optics is the geometry of light." - Claude Debussy*
 
